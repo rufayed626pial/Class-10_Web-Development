@@ -1,0 +1,25 @@
+Typess of Display 
+
+1.Inline Elements
+2.Block Level Elements
+
+Special Tag :
+
+<Style>
+<div>
+<ection>
+<script>
+
+
+============CSS===========
+CSS = Casecading Style Sheet.
+
+1. Inline CSS.
+2. Internal CSS.
+3. Extranal CSS.
+
+Identifier for writing CSS.....
+1. tags
+2. class
+3. id 
+
